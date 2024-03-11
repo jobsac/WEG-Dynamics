@@ -1,2 +1,2 @@
-# Max-Test
-Max Test
+# WEG-Dynamics
+WEG-Dynamics
